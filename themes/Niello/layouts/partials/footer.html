@@ -4,10 +4,4 @@
         {{ .Site.Params.license.copyright | safeHTML }}
         {{ end }}
     </div>
-    <div>
-        {{ range .Site.Languages }}
-        <a class="hover:text-gray-100" href="{{ if eq .Lang " en" }} / {{ else }} /{{.Lang}} {{ end }}">{{
-            .LanguageName }}</a>
-        {{ end }}
-    </div>
 </footer>

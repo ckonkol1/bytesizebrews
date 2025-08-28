@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ByteSizeBrews</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on ByteSizeBrews</description>
+    <title>{CodeTrace} - Discover Issues, Share Solutions.</title>
+    <link>http://localhost:1313/ByteSizeBrews/</link>
+    <description>Recent content on {CodeTrace} - Discover Issues, Share Solutions.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ByteSizeBrews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Traditional and Modern Mentoring</title>
-      <link>http://localhost:1313/posts/traditionalandmodernmentoring/</link>
+      <link>http://localhost:1313/ByteSizeBrews/en/posts/traditionalandmodernmentoring/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/traditionalandmodernmentoring/</guid>
-      <description>&lt;p&gt;#Hello World&lt;/p&gt;&#xA;&lt;p&gt;New Post!!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ByteSizeBrews/en/posts/traditionalandmodernmentoring/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;New Post!!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
