@@ -1,4 +1,4 @@
-baseURL = 'https://ckonkol1.github.io/ByteSizeBrews/'
+baseURL = 'https://bytesizebrews.com/'
 languageCode = 'en-us'
 title = 'ByteSizeBrews'
 theme = 'Niello'
@@ -32,4 +32,4 @@ theme = 'Niello'
 [params.ignore]
 	categories = ["privacy", "terms", "archives", "cookie"]
 [params.categoryImages]
-  softskills = "/ByteSizeBrews/image/categories/softskills_robots.png"
+  softskills = "/image/categories/softskills_robots.png"
