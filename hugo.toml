@@ -1,4 +1,4 @@
-baseURL = 'https://ckonkol1.github.io/ByteSizeBrews/'
+baseURL = 'http://www.example.com'
 languageCode = 'en-us'
 title = 'ByteSizeBrews'
 theme = 'Niello'
@@ -22,7 +22,14 @@ theme = 'Niello'
 			name = 'Tags'
 			pageRef = '/tags'
 			weight = 3
-		[[languages.en.menus.main]]
-			name = 'Contact'
-			pageRef = '/contact'
-			weight = 4
+
+[params]
+[params.bannershowcase]
+	categories = ["SoftSkills"]
+	limit = 2
+[params.email]
+	contact = "bytesizebrews@gmail.com"
+[params.ignore]
+	categories = ["privacy", "terms", "archives", "cookie"]
+[params.categoryImages]
+  softskills = "/image/categories/softskills_robots.png"
