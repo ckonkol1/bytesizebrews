@@ -5,7 +5,7 @@ tags: ["tag1", "tag2"]
 featuredImage: "image/posts/mentoring.png"
 
 Date: 2025-08-27
-draft: false
+draft: true
 ---
 
 
