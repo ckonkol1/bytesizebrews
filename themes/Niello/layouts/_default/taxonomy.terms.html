@@ -1,0 +1,22 @@
+{{ define "main" }}
+<h1 class="text-3xl font-bold mb-8">Categories</h1>
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+  {{ range .Terms }}
+    {{ $cat := lower .LinkTitle }}
+    {{ $img := index site.Params.categoryImages $cat }}
+    <a href="{{ .Permalink }}" class="block bg-white rounded-xl shadow hover:shadow-lg transition overflow-hidden group">
+      <div class="h-40 bg-gray-100 flex items-center justify-center">
+        {{ if $img }}
+          <img src="{{ $img }}" alt="{{ .LinkTitle }}" class="object-cover h-full w-full group-hover:scale-105 transition-transform duration-300" />
+        {{ else }}
+          <span class="text-5xl text-gray-300">📂</span>
+        {{ end }}
+      </div>
+      <div class="p-6">
+        <div class="text-xl font-semibold mb-2 group-hover:text-blue-600 transition">{{ .LinkTitle }}</div>
+        <div class="text-gray-500 text-sm">{{ .Count }} posts</div>
+      </div>
+    </a>
+  {{ end }}
+</div>
+{{ end }}
