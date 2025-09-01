@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'ByteSizeBrews'
 theme = 'Niello'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [languages]
 	[languages.en]
 		title = "{CodeTrace} - Discover Issues, Share Solutions."
@@ -25,11 +30,15 @@ theme = 'Niello'
 
 [params]
 [params.bannershowcase]
-	categories = ["SoftSkills"]
+	categories = ["Showcase"]
 	limit = 2
 [params.email]
 	contact = "bytesizebrews@gmail.com"
 [params.ignore]
 	categories = ["privacy", "terms", "archives", "cookie"]
 [params.categoryImages]
-  softskills = "/image/categories/softskills_robots.png"
+    "Soft Skills & Career" = "/image/categories/softskillscareer_robots.png"
+	"Media" = "/image/categories/media.png"
+	#technicalDeepDives, IndustryAndTrends
+[params.tagImages]
+	"Podcast" = "/image/tags/podcast.png"
