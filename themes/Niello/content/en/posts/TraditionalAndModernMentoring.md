@@ -1,7 +1,6 @@
 ---
 title: Designing Mentorship for Success
-categories: ["SoftSkills"]
-tags: ["tag1", "tag2"]
+categories: ["Soft Skills & Career"]
 featuredImage: "image/posts/mentoring.png"
 
 Date: 2025-08-27
@@ -9,10 +8,12 @@ draft: true
 ---
 
 
- <img src="/image/posts/mentoring.png" alt="Mentorship" width="200"/>
+ <img src="/image/posts/mentoring.png" alt="Mentorship" width="65%"/>
 
-How exactly do you approach mentoring someone, or what model fits your work environment best? In this article, I will discuss the traditional and modern mentoring models along with the basics of mentoring, common challenges, and some best practices. The goal is to provide some light on mentoring and various models that exist to help get the job done.
-It's important to remember that for mentoring to be successful, it has to work for both the mentee and mentor. Sometimes everyone needs something a little bit different, and hopefully this will give you some ideas on how to approach your next mentoring opportunity.
+Ever wondered how to actually mentor someone effectively? Or maybe you're trying to figure out what mentoring approach would work best in your workplace? <br>
+I've been thinking about this a lot lately, and there's honestly no one-size-fits-all answer. That's why I want to walk you through both the tried-and-true mentoring methods and some of the newer approaches that are gaining traction. We'll also dive into the fundamentals, tackle some of those tricky challenges you're bound to face, and share some practical tips that actually work.
+Here's the thing though – and this is super important – mentoring only works when it clicks for both people involved. What works perfectly for one mentor-mentee pair might fall flat for another. Everyone brings different needs, communication styles, and goals to the table.
+So whether you're about to mentor someone for the first time or you're looking to shake up your current approach, I'm hoping this gives you some fresh ideas and maybe a few "aha" moments for your next mentoring relationship.
 
 ## What is Mentoring?
 
@@ -36,8 +37,20 @@ the partnership. To help work with a mentee, here are some best practices to fol
 
 Even with these guidelines, there are still common challenges that will arise. Below is a list of common challenges a mentor or mentee may encounter.
 
-| Common Challenges         | Description                                                              |
-|---------------------------|--------------------------------------------------------------------------|
-| Recognize need for help   | Mentees can be afraid or not sure how to ask for help when they need it. |
-| Allow for trial and error | Its ok to let the mentee fail before providing the correct answer.       |
+| **Common Challenges**      | **Description**                                                           |
+|:--------------------------:|:-------------------------------------------------------------------------:|
+  Recognize need for help   |Mentees can be afraid or not sure how to ask for help when they need it. |
+| Allow for trial and error | It's ok to let the mentee fail before providing the correct answer. |
+
+<style>
+table, th, td {
+   border: 1px solid #888;
+   border-collapse: collapse;
+   padding: 8px;
+   text-align: left;
+}
+th {
+   background: #f4f4f4;
+}
+</style>
 
